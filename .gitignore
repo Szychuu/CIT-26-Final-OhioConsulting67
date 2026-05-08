@@ -1,0 +1,21 @@
+# Python - pliki kompilacji
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Środowisko wirtualne (NAJWAŻNIEJSZE)
+venv/
+.venv/
+env/
+
+# Pliki konfiguracyjne i sekrety
+.env
+.flaskenv
+
+# Logi i bazy danych
+*.log
+*.sqlite
+
+# Systemowe (macOS / Windows)
+.DS_Store
+Thumbs.db
