@@ -1,0 +1,50 @@
+﻿Data;ID Sklepu;Nazwa produktu;Kategoria;Zalecana ilość do zamówienia;Łączny koszt (PLN);Pewność predykcji
+2026-04-01;115;Jajka L 10szt;Nabiał i jaja;24 szt.;243.36 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Chleb pszenny 500g;Pieczywo;46 szt.;335.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Masło 200g;Nabiał i jaja;38 szt.;356.82 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Jabłka 1kg;Warzywa i owoce;114 kg/szt.;511.86 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Banany 1kg;Warzywa i owoce;111 kg/szt.;642.69 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Mleko UHT 3.2% 1L;Nabiał i jaja;148 szt.;679.32 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Pomidory 1kg;Warzywa i owoce;75 kg/szt.;780.75 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Jajka L 10szt;Nabiał i jaja;25 szt.;253.5 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Chleb pszenny 500g;Pieczywo;47 szt.;342.63 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Masło 200g;Nabiał i jaja;38 szt.;356.82 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Jabłka 1kg;Warzywa i owoce;115 kg/szt.;516.35 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Banany 1kg;Warzywa i owoce;113 kg/szt.;654.27 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Mleko UHT 3.2% 1L;Nabiał i jaja;147 szt.;674.73 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Pomidory 1kg;Warzywa i owoce;76 kg/szt.;791.16 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Jajka L 10szt;Nabiał i jaja;31 szt.;314.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Masło 200g;Nabiał i jaja;56 szt.;525.84 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Chleb pszenny 500g;Pieczywo;76 szt.;554.04 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Jabłka 1kg;Warzywa i owoce;167 kg/szt.;749.83 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Mleko UHT 3.2% 1L;Nabiał i jaja;203 szt.;931.77 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Banany 1kg;Warzywa i owoce;167 kg/szt.;966.93 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Pomidory 1kg;Warzywa i owoce;116 kg/szt.;1207.56 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Jajka L 10szt;Nabiał i jaja;36 szt.;365.04 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Masło 200g;Nabiał i jaja;58 szt.;544.62 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Chleb pszenny 500g;Pieczywo;83 szt.;605.07 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Jabłka 1kg;Warzywa i owoce;191 kg/szt.;857.59 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Mleko UHT 3.2% 1L;Nabiał i jaja;234 szt.;1074.06 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Banany 1kg;Warzywa i owoce;211 kg/szt.;1221.69 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Pomidory 1kg;Warzywa i owoce;139 kg/szt.;1446.99 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Jajka L 10szt;Nabiał i jaja;16 szt.;162.24 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Masło 200g;Nabiał i jaja;24 szt.;225.36 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Chleb pszenny 500g;Pieczywo;33 szt.;240.57 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Jabłka 1kg;Warzywa i owoce;65 kg/szt.;291.85 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Mleko UHT 3.2% 1L;Nabiał i jaja;85 szt.;390.15 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Banany 1kg;Warzywa i owoce;73 kg/szt.;422.67 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Pomidory 1kg;Warzywa i owoce;47 kg/szt.;489.27 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Jajka L 10szt;Nabiał i jaja;23 szt.;233.22 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Chleb pszenny 500g;Pieczywo;44 szt.;320.76 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Masło 200g;Nabiał i jaja;37 szt.;347.43 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Jabłka 1kg;Warzywa i owoce;108 kg/szt.;484.92 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Banany 1kg;Warzywa i owoce;105 kg/szt.;607.95 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Mleko UHT 3.2% 1L;Nabiał i jaja;145 szt.;665.55 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Pomidory 1kg;Warzywa i owoce;73 kg/szt.;759.93 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Jajka L 10szt;Nabiał i jaja;23 szt.;233.22 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Chleb pszenny 500g;Pieczywo;45 szt.;328.05 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Masło 200g;Nabiał i jaja;37 szt.;347.43 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Jabłka 1kg;Warzywa i owoce;110 kg/szt.;493.9 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Banany 1kg;Warzywa i owoce;104 kg/szt.;602.16 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Mleko UHT 3.2% 1L;Nabiał i jaja;146 szt.;670.14 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Pomidory 1kg;Warzywa i owoce;74 kg/szt.;770.34 PLN;Średni błąd modelu (MAPE) to 117.8%

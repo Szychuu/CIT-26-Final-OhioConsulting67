@@ -1,0 +1,71 @@
+﻿Data;ID Sklepu;Nazwa produktu;Kategoria;Zalecana ilość do zamówienia;Łączny koszt (PLN);Pewność predykcji
+2026-04-01;115;Jajka L 10szt;Nabiał i jaja;24 szt.;243.36 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Jajka L 10szt;Nabiał i jaja;27 szt.;273.78 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Jajka L 10szt;Nabiał i jaja;31 szt.;314.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Chleb pszenny 500g;Pieczywo;46 szt.;335.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Jajka L 10szt;Nabiał i jaja;34 szt.;344.76 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Masło 200g;Nabiał i jaja;38 szt.;356.82 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Chleb pszenny 500g;Pieczywo;49 szt.;357.21 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Masło 200g;Nabiał i jaja;40 szt.;375.6 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Chleb pszenny 500g;Pieczywo;59 szt.;430.11 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Masło 200g;Nabiał i jaja;46 szt.;431.94 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Jajka L 10szt;Nabiał i jaja;25 szt.;253.5 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Jajka L 10szt;Nabiał i jaja;28 szt.;283.92 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Jajka L 10szt;Nabiał i jaja;32 szt.;324.48 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Chleb pszenny 500g;Pieczywo;47 szt.;342.63 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Masło 200g;Nabiał i jaja;38 szt.;356.82 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Jajka L 10szt;Nabiał i jaja;36 szt.;365.04 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Chleb pszenny 500g;Pieczywo;51 szt.;371.79 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Masło 200g;Nabiał i jaja;41 szt.;384.99 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Chleb pszenny 500g;Pieczywo;61 szt.;444.69 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Masło 200g;Nabiał i jaja;48 szt.;450.72 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Jajka L 10szt;Nabiał i jaja;31 szt.;314.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Jajka L 10szt;Nabiał i jaja;35 szt.;354.9 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Jajka L 10szt;Nabiał i jaja;41 szt.;415.74 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Jajka L 10szt;Nabiał i jaja;47 szt.;476.58 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Masło 200g;Nabiał i jaja;56 szt.;525.84 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Chleb pszenny 500g;Pieczywo;76 szt.;554.04 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Masło 200g;Nabiał i jaja;60 szt.;563.4 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Chleb pszenny 500g;Pieczywo;81 szt.;590.49 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Jajka L 10szt;Nabiał i jaja;64 szt.;648.96 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Masło 200g;Nabiał i jaja;74 szt.;694.86 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Jajka L 10szt;Nabiał i jaja;36 szt.;365.04 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Jajka L 10szt;Nabiał i jaja;38 szt.;385.32 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Jajka L 10szt;Nabiał i jaja;45 szt.;456.3 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Jajka L 10szt;Nabiał i jaja;52 szt.;527.28 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Masło 200g;Nabiał i jaja;58 szt.;544.62 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Masło 200g;Nabiał i jaja;61 szt.;572.79 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Chleb pszenny 500g;Pieczywo;83 szt.;605.07 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Chleb pszenny 500g;Pieczywo;85 szt.;619.65 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Masło 200g;Nabiał i jaja;75 szt.;704.25 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Jajka L 10szt;Nabiał i jaja;70 szt.;709.8 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Jajka L 10szt;Nabiał i jaja;16 szt.;162.24 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Jajka L 10szt;Nabiał i jaja;16 szt.;162.24 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Jajka L 10szt;Nabiał i jaja;18 szt.;182.52 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Jajka L 10szt;Nabiał i jaja;21 szt.;212.94 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Masło 200g;Nabiał i jaja;23 szt.;215.97 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Masło 200g;Nabiał i jaja;24 szt.;225.36 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Masło 200g;Nabiał i jaja;24 szt.;225.36 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Chleb pszenny 500g;Pieczywo;33 szt.;240.57 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Chleb pszenny 500g;Pieczywo;34 szt.;247.86 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Jajka L 10szt;Nabiał i jaja;26 szt.;263.64 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Jajka L 10szt;Nabiał i jaja;23 szt.;233.22 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Jajka L 10szt;Nabiał i jaja;26 szt.;263.64 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Jajka L 10szt;Nabiał i jaja;31 szt.;314.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Chleb pszenny 500g;Pieczywo;44 szt.;320.76 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Jajka L 10szt;Nabiał i jaja;33 szt.;334.62 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Chleb pszenny 500g;Pieczywo;46 szt.;335.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Masło 200g;Nabiał i jaja;37 szt.;347.43 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Masło 200g;Nabiał i jaja;38 szt.;356.82 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Chleb pszenny 500g;Pieczywo;55 szt.;400.95 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Masło 200g;Nabiał i jaja;45 szt.;422.55 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Jajka L 10szt;Nabiał i jaja;23 szt.;233.22 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Jajka L 10szt;Nabiał i jaja;26 szt.;263.64 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Jajka L 10szt;Nabiał i jaja;31 szt.;314.34 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Chleb pszenny 500g;Pieczywo;45 szt.;328.05 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Jajka L 10szt;Nabiał i jaja;33 szt.;334.62 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Masło 200g;Nabiał i jaja;37 szt.;347.43 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Chleb pszenny 500g;Pieczywo;48 szt.;349.92 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Masło 200g;Nabiał i jaja;39 szt.;366.21 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Chleb pszenny 500g;Pieczywo;57 szt.;415.53 PLN;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Masło 200g;Nabiał i jaja;45 szt.;422.55 PLN;Średni błąd modelu (MAPE) to 117.8%

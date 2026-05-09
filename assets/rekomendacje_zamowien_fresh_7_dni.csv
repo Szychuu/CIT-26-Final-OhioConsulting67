@@ -1,0 +1,841 @@
+﻿Data;ID Sklepu;Nazwa produktu;Kategoria;Zalecana ilość do zamówienia;Pewność predykcji
+2026-04-01;20;Mleko UHT 3.2% 1L;Nabiał i jaja;892 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Kefir 400g;Nabiał i jaja;727 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Jabłka 1kg;Warzywa i owoce;668 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Marchew 1kg;Warzywa i owoce;635 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Bagietka;Pieczywo;621 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Banany 1kg;Warzywa i owoce;611 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Pomidory 1kg;Warzywa i owoce;466 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Twaróg 250g;Nabiał i jaja;352 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Pieczywo razowe 400g;Pieczywo;328 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;20;Chleb pszenny 500g;Pieczywo;252 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Mleko UHT 3.2% 1L;Nabiał i jaja;428 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Kefir 400g;Nabiał i jaja;363 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Jabłka 1kg;Warzywa i owoce;315 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Banany 1kg;Warzywa i owoce;313 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Bagietka;Pieczywo;304 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Marchew 1kg;Warzywa i owoce;300 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Pomidory 1kg;Warzywa i owoce;233 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Twaróg 250g;Nabiał i jaja;172 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Pieczywo razowe 400g;Pieczywo;156 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;24;Chleb pszenny 500g;Pieczywo;128 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Mleko UHT 3.2% 1L;Nabiał i jaja;409 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Kefir 400g;Nabiał i jaja;361 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Jabłka 1kg;Warzywa i owoce;314 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Banany 1kg;Warzywa i owoce;311 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Bagietka;Pieczywo;296 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Marchew 1kg;Warzywa i owoce;295 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Pomidory 1kg;Warzywa i owoce;228 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Twaróg 250g;Nabiał i jaja;166 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Pieczywo razowe 400g;Pieczywo;154 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;48;Chleb pszenny 500g;Pieczywo;126 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Mleko UHT 3.2% 1L;Nabiał i jaja;405 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Kefir 400g;Nabiał i jaja;347 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Banany 1kg;Warzywa i owoce;318 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Jabłka 1kg;Warzywa i owoce;317 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Marchew 1kg;Warzywa i owoce;300 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Bagietka;Pieczywo;294 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Pomidory 1kg;Warzywa i owoce;221 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Twaróg 250g;Nabiał i jaja;168 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Pieczywo razowe 400g;Pieczywo;157 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;50;Chleb pszenny 500g;Pieczywo;129 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Mleko UHT 3.2% 1L;Nabiał i jaja;210 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Kefir 400g;Nabiał i jaja;180 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Jabłka 1kg;Warzywa i owoce;164 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Banany 1kg;Warzywa i owoce;158 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Marchew 1kg;Warzywa i owoce;152 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Bagietka;Pieczywo;145 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Pomidory 1kg;Warzywa i owoce;109 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Twaróg 250g;Nabiał i jaja;91 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Pieczywo razowe 400g;Pieczywo;78 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;78;Chleb pszenny 500g;Pieczywo;66 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Mleko UHT 3.2% 1L;Nabiał i jaja;195 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Kefir 400g;Nabiał i jaja;163 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Banany 1kg;Warzywa i owoce;149 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Jabłka 1kg;Warzywa i owoce;143 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Marchew 1kg;Warzywa i owoce;135 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Bagietka;Pieczywo;127 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Pomidory 1kg;Warzywa i owoce;100 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Twaróg 250g;Nabiał i jaja;82 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Pieczywo razowe 400g;Pieczywo;72 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;92;Chleb pszenny 500g;Pieczywo;59 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Mleko UHT 3.2% 1L;Nabiał i jaja;369 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Kefir 400g;Nabiał i jaja;303 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Jabłka 1kg;Warzywa i owoce;280 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Banany 1kg;Warzywa i owoce;265 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Bagietka;Pieczywo;261 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Marchew 1kg;Warzywa i owoce;260 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Pomidory 1kg;Warzywa i owoce;206 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Twaróg 250g;Nabiał i jaja;150 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Pieczywo razowe 400g;Pieczywo;140 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;106;Chleb pszenny 500g;Pieczywo;114 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Mleko UHT 3.2% 1L;Nabiał i jaja;148 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Kefir 400g;Nabiał i jaja;126 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Jabłka 1kg;Warzywa i owoce;114 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Banany 1kg;Warzywa i owoce;111 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Marchew 1kg;Warzywa i owoce;108 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Bagietka;Pieczywo;104 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Pomidory 1kg;Warzywa i owoce;75 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Twaróg 250g;Nabiał i jaja;63 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Pieczywo razowe 400g;Pieczywo;55 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;115;Chleb pszenny 500g;Pieczywo;46 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Mleko UHT 3.2% 1L;Nabiał i jaja;536 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Kefir 400g;Nabiał i jaja;462 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Jabłka 1kg;Warzywa i owoce;394 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Bagietka;Pieczywo;382 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Banany 1kg;Warzywa i owoce;371 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Marchew 1kg;Warzywa i owoce;369 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Pomidory 1kg;Warzywa i owoce;284 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Twaróg 250g;Nabiał i jaja;206 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Pieczywo razowe 400g;Pieczywo;197 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;118;Chleb pszenny 500g;Pieczywo;158 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Mleko UHT 3.2% 1L;Nabiał i jaja;305 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Kefir 400g;Nabiał i jaja;257 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Jabłka 1kg;Warzywa i owoce;232 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Banany 1kg;Warzywa i owoce;229 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Marchew 1kg;Warzywa i owoce;221 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Bagietka;Pieczywo;213 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Pomidory 1kg;Warzywa i owoce;166 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Twaróg 250g;Nabiał i jaja;118 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Pieczywo razowe 400g;Pieczywo;112 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;124;Chleb pszenny 500g;Pieczywo;94 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Mleko UHT 3.2% 1L;Nabiał i jaja;276 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Kefir 400g;Nabiał i jaja;240 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Jabłka 1kg;Warzywa i owoce;222 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Banany 1kg;Warzywa i owoce;208 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Marchew 1kg;Warzywa i owoce;205 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Bagietka;Pieczywo;203 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Pomidory 1kg;Warzywa i owoce;156 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Twaróg 250g;Nabiał i jaja;113 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Pieczywo razowe 400g;Pieczywo;105 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;132;Chleb pszenny 500g;Pieczywo;83 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Mleko UHT 3.2% 1L;Nabiał i jaja;161 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Kefir 400g;Nabiał i jaja;136 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Banany 1kg;Warzywa i owoce;125 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Jabłka 1kg;Warzywa i owoce;124 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Marchew 1kg;Warzywa i owoce;112 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Bagietka;Pieczywo;107 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Pomidory 1kg;Warzywa i owoce;82 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Twaróg 250g;Nabiał i jaja;68 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Pieczywo razowe 400g;Pieczywo;60 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-01;136;Chleb pszenny 500g;Pieczywo;49 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Mleko UHT 3.2% 1L;Nabiał i jaja;946 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Kefir 400g;Nabiał i jaja;758 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Jabłka 1kg;Warzywa i owoce;701 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Marchew 1kg;Warzywa i owoce;682 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Bagietka;Pieczywo;670 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Banany 1kg;Warzywa i owoce;654 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Pomidory 1kg;Warzywa i owoce;503 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Twaróg 250g;Nabiał i jaja;388 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Pieczywo razowe 400g;Pieczywo;354 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;20;Chleb pszenny 500g;Pieczywo;270 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Mleko UHT 3.2% 1L;Nabiał i jaja;437 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Kefir 400g;Nabiał i jaja;369 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Jabłka 1kg;Warzywa i owoce;330 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Banany 1kg;Warzywa i owoce;328 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Bagietka;Pieczywo;320 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Marchew 1kg;Warzywa i owoce;313 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Pomidory 1kg;Warzywa i owoce;242 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Twaróg 250g;Nabiał i jaja;179 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Pieczywo razowe 400g;Pieczywo;164 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;24;Chleb pszenny 500g;Pieczywo;134 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Mleko UHT 3.2% 1L;Nabiał i jaja;422 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Kefir 400g;Nabiał i jaja;370 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Jabłka 1kg;Warzywa i owoce;330 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Banany 1kg;Warzywa i owoce;329 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Bagietka;Pieczywo;316 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Marchew 1kg;Warzywa i owoce;309 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Pomidory 1kg;Warzywa i owoce;239 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Twaróg 250g;Nabiał i jaja;174 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Pieczywo razowe 400g;Pieczywo;165 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;48;Chleb pszenny 500g;Pieczywo;134 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Mleko UHT 3.2% 1L;Nabiał i jaja;419 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Kefir 400g;Nabiał i jaja;356 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Banany 1kg;Warzywa i owoce;335 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Jabłka 1kg;Warzywa i owoce;334 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Marchew 1kg;Warzywa i owoce;314 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Bagietka;Pieczywo;313 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Pomidory 1kg;Warzywa i owoce;231 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Twaróg 250g;Nabiał i jaja;175 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Pieczywo razowe 400g;Pieczywo;168 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;50;Chleb pszenny 500g;Pieczywo;136 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Mleko UHT 3.2% 1L;Nabiał i jaja;214 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Kefir 400g;Nabiał i jaja;182 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Jabłka 1kg;Warzywa i owoce;171 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Banany 1kg;Warzywa i owoce;166 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Marchew 1kg;Warzywa i owoce;157 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Bagietka;Pieczywo;152 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Pomidory 1kg;Warzywa i owoce;112 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Twaróg 250g;Nabiał i jaja;95 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Pieczywo razowe 400g;Pieczywo;82 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;78;Chleb pszenny 500g;Pieczywo;70 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Mleko UHT 3.2% 1L;Nabiał i jaja;197 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Kefir 400g;Nabiał i jaja;165 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Banany 1kg;Warzywa i owoce;155 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Jabłka 1kg;Warzywa i owoce;149 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Marchew 1kg;Warzywa i owoce;139 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Bagietka;Pieczywo;132 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Pomidory 1kg;Warzywa i owoce;103 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Twaróg 250g;Nabiał i jaja;84 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Pieczywo razowe 400g;Pieczywo;75 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;92;Chleb pszenny 500g;Pieczywo;61 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Mleko UHT 3.2% 1L;Nabiał i jaja;375 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Kefir 400g;Nabiał i jaja;308 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Jabłka 1kg;Warzywa i owoce;292 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Banany 1kg;Warzywa i owoce;278 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Bagietka;Pieczywo;273 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Marchew 1kg;Warzywa i owoce;269 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Pomidory 1kg;Warzywa i owoce;212 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Twaróg 250g;Nabiał i jaja;156 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Pieczywo razowe 400g;Pieczywo;147 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;106;Chleb pszenny 500g;Pieczywo;118 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Mleko UHT 3.2% 1L;Nabiał i jaja;147 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Kefir 400g;Nabiał i jaja;127 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Jabłka 1kg;Warzywa i owoce;115 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Banany 1kg;Warzywa i owoce;113 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Marchew 1kg;Warzywa i owoce;109 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Bagietka;Pieczywo;105 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Pomidory 1kg;Warzywa i owoce;76 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Twaróg 250g;Nabiał i jaja;65 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Pieczywo razowe 400g;Pieczywo;56 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;115;Chleb pszenny 500g;Pieczywo;47 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Mleko UHT 3.2% 1L;Nabiał i jaja;557 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Kefir 400g;Nabiał i jaja;474 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Jabłka 1kg;Warzywa i owoce;411 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Bagietka;Pieczywo;402 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Banany 1kg;Warzywa i owoce;389 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Marchew 1kg;Warzywa i owoce;384 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Pomidory 1kg;Warzywa i owoce;295 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Twaróg 250g;Nabiał i jaja;214 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Pieczywo razowe 400g;Pieczywo;207 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;118;Chleb pszenny 500g;Pieczywo;165 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Mleko UHT 3.2% 1L;Nabiał i jaja;311 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Kefir 400g;Nabiał i jaja;262 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Jabłka 1kg;Warzywa i owoce;243 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Banany 1kg;Warzywa i owoce;238 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Marchew 1kg;Warzywa i owoce;229 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Bagietka;Pieczywo;225 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Pomidory 1kg;Warzywa i owoce;171 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Twaróg 250g;Nabiał i jaja;123 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Pieczywo razowe 400g;Pieczywo;117 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;124;Chleb pszenny 500g;Pieczywo;99 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Mleko UHT 3.2% 1L;Nabiał i jaja;281 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Kefir 400g;Nabiał i jaja;244 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Jabłka 1kg;Warzywa i owoce;231 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Banany 1kg;Warzywa i owoce;218 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Marchew 1kg;Warzywa i owoce;213 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Bagietka;Pieczywo;213 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Pomidory 1kg;Warzywa i owoce;160 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Twaróg 250g;Nabiał i jaja;117 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Pieczywo razowe 400g;Pieczywo;110 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;132;Chleb pszenny 500g;Pieczywo;87 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Mleko UHT 3.2% 1L;Nabiał i jaja;162 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Kefir 400g;Nabiał i jaja;137 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Banany 1kg;Warzywa i owoce;129 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Jabłka 1kg;Warzywa i owoce;128 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Marchew 1kg;Warzywa i owoce;114 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Bagietka;Pieczywo;109 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Pomidory 1kg;Warzywa i owoce;84 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Twaróg 250g;Nabiał i jaja;70 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Pieczywo razowe 400g;Pieczywo;62 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-02;136;Chleb pszenny 500g;Pieczywo;51 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Mleko UHT 3.2% 1L;Nabiał i jaja;1180 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Bagietka;Pieczywo;983 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Kefir 400g;Nabiał i jaja;975 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Marchew 1kg;Warzywa i owoce;965 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Jabłka 1kg;Warzywa i owoce;958 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Banany 1kg;Warzywa i owoce;929 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Pomidory 1kg;Warzywa i owoce;749 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Twaróg 250g;Nabiał i jaja;570 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Pieczywo razowe 400g;Pieczywo;546 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;20;Chleb pszenny 500g;Pieczywo;409 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Mleko UHT 3.2% 1L;Nabiał i jaja;580 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Kefir 400g;Nabiał i jaja;505 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Bagietka;Pieczywo;500 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Banany 1kg;Warzywa i owoce;494 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Jabłka 1kg;Warzywa i owoce;492 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Marchew 1kg;Warzywa i owoce;465 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Pomidory 1kg;Warzywa i owoce;377 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Twaróg 250g;Nabiał i jaja;265 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Pieczywo razowe 400g;Pieczywo;260 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;24;Chleb pszenny 500g;Pieczywo;217 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Mleko UHT 3.2% 1L;Nabiał i jaja;556 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Kefir 400g;Nabiał i jaja;500 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Banany 1kg;Warzywa i owoce;490 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Jabłka 1kg;Warzywa i owoce;488 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Bagietka;Pieczywo;481 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Marchew 1kg;Warzywa i owoce;449 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Pomidory 1kg;Warzywa i owoce;368 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Twaróg 250g;Nabiał i jaja;256 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Pieczywo razowe 400g;Pieczywo;256 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;48;Chleb pszenny 500g;Pieczywo;217 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Mleko UHT 3.2% 1L;Nabiał i jaja;549 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Banany 1kg;Warzywa i owoce;492 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Jabłka 1kg;Warzywa i owoce;491 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Kefir 400g;Nabiał i jaja;483 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Bagietka;Pieczywo;475 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Marchew 1kg;Warzywa i owoce;458 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Pomidory 1kg;Warzywa i owoce;354 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Twaróg 250g;Nabiał i jaja;258 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Pieczywo razowe 400g;Pieczywo;256 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;50;Chleb pszenny 500g;Pieczywo;221 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Mleko UHT 3.2% 1L;Nabiał i jaja;284 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Jabłka 1kg;Warzywa i owoce;251 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Bagietka;Pieczywo;247 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Kefir 400g;Nabiał i jaja;246 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Banany 1kg;Warzywa i owoce;244 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Marchew 1kg;Warzywa i owoce;231 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Pomidory 1kg;Warzywa i owoce;176 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Twaróg 250g;Nabiał i jaja;134 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Pieczywo razowe 400g;Pieczywo;131 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;78;Chleb pszenny 500g;Pieczywo;119 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Mleko UHT 3.2% 1L;Nabiał i jaja;260 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Banany 1kg;Warzywa i owoce;223 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Kefir 400g;Nabiał i jaja;220 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Jabłka 1kg;Warzywa i owoce;213 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Bagietka;Pieczywo;208 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Marchew 1kg;Warzywa i owoce;202 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Pomidory 1kg;Warzywa i owoce;157 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Twaróg 250g;Nabiał i jaja;118 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Pieczywo razowe 400g;Pieczywo;118 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;92;Chleb pszenny 500g;Pieczywo;101 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Mleko UHT 3.2% 1L;Nabiał i jaja;504 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Jabłka 1kg;Warzywa i owoce;438 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Kefir 400g;Nabiał i jaja;423 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Bagietka;Pieczywo;421 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Banany 1kg;Warzywa i owoce;416 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Marchew 1kg;Warzywa i owoce;401 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Pomidory 1kg;Warzywa i owoce;327 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Twaróg 250g;Nabiał i jaja;230 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Pieczywo razowe 400g;Pieczywo;224 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;106;Chleb pszenny 500g;Pieczywo;195 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Mleko UHT 3.2% 1L;Nabiał i jaja;203 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Kefir 400g;Nabiał i jaja;173 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Jabłka 1kg;Warzywa i owoce;167 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Banany 1kg;Warzywa i owoce;167 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Bagietka;Pieczywo;164 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Marchew 1kg;Warzywa i owoce;158 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Pomidory 1kg;Warzywa i owoce;116 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Twaróg 250g;Nabiał i jaja;88 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Pieczywo razowe 400g;Pieczywo;87 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;115;Chleb pszenny 500g;Pieczywo;76 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Mleko UHT 3.2% 1L;Nabiał i jaja;707 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Kefir 400g;Nabiał i jaja;621 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Bagietka;Pieczywo;606 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Jabłka 1kg;Warzywa i owoce;576 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Banany 1kg;Warzywa i owoce;561 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Marchew 1kg;Warzywa i owoce;556 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Pomidory 1kg;Warzywa i owoce;442 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Pieczywo razowe 400g;Pieczywo;322 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Twaróg 250g;Nabiał i jaja;314 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;118;Chleb pszenny 500g;Pieczywo;254 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Mleko UHT 3.2% 1L;Nabiał i jaja;412 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Kefir 400g;Nabiał i jaja;360 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Jabłka 1kg;Warzywa i owoce;356 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Banany 1kg;Warzywa i owoce;351 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Bagietka;Pieczywo;347 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Marchew 1kg;Warzywa i owoce;336 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Pomidory 1kg;Warzywa i owoce;257 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Twaróg 250g;Nabiał i jaja;174 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Pieczywo razowe 400g;Pieczywo;173 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;124;Chleb pszenny 500g;Pieczywo;159 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Mleko UHT 3.2% 1L;Nabiał i jaja;369 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Jabłka 1kg;Warzywa i owoce;326 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Kefir 400g;Nabiał i jaja;325 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Bagietka;Pieczywo;315 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Banany 1kg;Warzywa i owoce;314 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Marchew 1kg;Warzywa i owoce;304 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Pomidory 1kg;Warzywa i owoce;236 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Twaróg 250g;Nabiał i jaja;165 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Pieczywo razowe 400g;Pieczywo;164 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;132;Chleb pszenny 500g;Pieczywo;141 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Mleko UHT 3.2% 1L;Nabiał i jaja;220 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Banany 1kg;Warzywa i owoce;188 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Kefir 400g;Nabiał i jaja;187 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Jabłka 1kg;Warzywa i owoce;184 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Bagietka;Pieczywo;170 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Marchew 1kg;Warzywa i owoce;165 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Pomidory 1kg;Warzywa i owoce;127 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Pieczywo razowe 400g;Pieczywo;95 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Twaróg 250g;Nabiał i jaja;94 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-03;136;Chleb pszenny 500g;Pieczywo;81 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Mleko UHT 3.2% 1L;Nabiał i jaja;1333 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Bagietka;Pieczywo;1108 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Banany 1kg;Warzywa i owoce;1096 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Marchew 1kg;Warzywa i owoce;1076 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Kefir 400g;Nabiał i jaja;1021 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Jabłka 1kg;Warzywa i owoce;1015 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Pomidory 1kg;Warzywa i owoce;840 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Pieczywo razowe 400g;Pieczywo;608 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Twaróg 250g;Nabiał i jaja;596 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;20;Chleb pszenny 500g;Pieczywo;441 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Mleko UHT 3.2% 1L;Nabiał i jaja;633 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Banany 1kg;Warzywa i owoce;570 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Bagietka;Pieczywo;552 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Kefir 400g;Nabiał i jaja;518 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Jabłka 1kg;Warzywa i owoce;515 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Marchew 1kg;Warzywa i owoce;492 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Pomidory 1kg;Warzywa i owoce;408 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Pieczywo razowe 400g;Pieczywo;290 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Twaróg 250g;Nabiał i jaja;267 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;24;Chleb pszenny 500g;Pieczywo;228 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Mleko UHT 3.2% 1L;Nabiał i jaja;622 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Banany 1kg;Warzywa i owoce;576 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Bagietka;Pieczywo;530 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Jabłka 1kg;Warzywa i owoce;513 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Kefir 400g;Nabiał i jaja;506 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Marchew 1kg;Warzywa i owoce;480 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Pomidory 1kg;Warzywa i owoce;402 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Pieczywo razowe 400g;Pieczywo;289 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Twaróg 250g;Nabiał i jaja;261 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;48;Chleb pszenny 500g;Pieczywo;230 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Mleko UHT 3.2% 1L;Nabiał i jaja;598 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Banany 1kg;Warzywa i owoce;546 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Jabłka 1kg;Warzywa i owoce;527 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Bagietka;Pieczywo;513 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Kefir 400g;Nabiał i jaja;500 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Marchew 1kg;Warzywa i owoce;482 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Pomidory 1kg;Warzywa i owoce;380 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Pieczywo razowe 400g;Pieczywo;283 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Twaróg 250g;Nabiał i jaja;269 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;50;Chleb pszenny 500g;Pieczywo;237 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Mleko UHT 3.2% 1L;Nabiał i jaja;324 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Banany 1kg;Warzywa i owoce;301 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Bagietka;Pieczywo;277 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Jabłka 1kg;Warzywa i owoce;269 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Marchew 1kg;Warzywa i owoce;258 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Kefir 400g;Nabiał i jaja;254 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Pomidory 1kg;Warzywa i owoce;199 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Pieczywo razowe 400g;Pieczywo;152 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Twaróg 250g;Nabiał i jaja;139 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;78;Chleb pszenny 500g;Pieczywo;131 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Mleko UHT 3.2% 1L;Nabiał i jaja;292 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Banany 1kg;Warzywa i owoce;266 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Bagietka;Pieczywo;231 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Kefir 400g;Nabiał i jaja;224 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Jabłka 1kg;Warzywa i owoce;223 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Marchew 1kg;Warzywa i owoce;216 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Pomidory 1kg;Warzywa i owoce;172 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Pieczywo razowe 400g;Pieczywo;132 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Twaróg 250g;Nabiał i jaja;121 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;92;Chleb pszenny 500g;Pieczywo;108 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Mleko UHT 3.2% 1L;Nabiał i jaja;562 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Banany 1kg;Warzywa i owoce;483 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Bagietka;Pieczywo;479 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Jabłka 1kg;Warzywa i owoce;468 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Kefir 400g;Nabiał i jaja;438 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Marchew 1kg;Warzywa i owoce;432 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Pomidory 1kg;Warzywa i owoce;361 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Pieczywo razowe 400g;Pieczywo;251 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Twaróg 250g;Nabiał i jaja;238 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;106;Chleb pszenny 500g;Pieczywo;211 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Mleko UHT 3.2% 1L;Nabiał i jaja;234 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Banany 1kg;Warzywa i owoce;211 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Jabłka 1kg;Warzywa i owoce;191 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Bagietka;Pieczywo;188 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Kefir 400g;Nabiał i jaja;182 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Marchew 1kg;Warzywa i owoce;178 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Pomidory 1kg;Warzywa i owoce;139 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Pieczywo razowe 400g;Pieczywo;103 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Twaróg 250g;Nabiał i jaja;94 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;115;Chleb pszenny 500g;Pieczywo;83 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Mleko UHT 3.2% 1L;Nabiał i jaja;793 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Bagietka;Pieczywo;680 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Kefir 400g;Nabiał i jaja;656 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Banany 1kg;Warzywa i owoce;646 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Jabłka 1kg;Warzywa i owoce;617 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Marchew 1kg;Warzywa i owoce;613 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Pomidory 1kg;Warzywa i owoce;498 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Pieczywo razowe 400g;Pieczywo;359 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Twaróg 250g;Nabiał i jaja;326 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;118;Chleb pszenny 500g;Pieczywo;272 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Mleko UHT 3.2% 1L;Nabiał i jaja;450 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Banany 1kg;Warzywa i owoce;404 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Bagietka;Pieczywo;391 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Jabłka 1kg;Warzywa i owoce;376 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Kefir 400g;Nabiał i jaja;367 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Marchew 1kg;Warzywa i owoce;359 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Pomidory 1kg;Warzywa i owoce;284 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Pieczywo razowe 400g;Pieczywo;193 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Twaróg 250g;Nabiał i jaja;177 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;124;Chleb pszenny 500g;Pieczywo;169 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Mleko UHT 3.2% 1L;Nabiał i jaja;415 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Banany 1kg;Warzywa i owoce;379 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Bagietka;Pieczywo;352 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Jabłka 1kg;Warzywa i owoce;343 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Marchew 1kg;Warzywa i owoce;334 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Kefir 400g;Nabiał i jaja;333 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Pomidory 1kg;Warzywa i owoce;263 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Pieczywo razowe 400g;Pieczywo;186 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Twaróg 250g;Nabiał i jaja;172 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;132;Chleb pszenny 500g;Pieczywo;153 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Mleko UHT 3.2% 1L;Nabiał i jaja;234 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Banany 1kg;Warzywa i owoce;214 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Jabłka 1kg;Warzywa i owoce;194 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Kefir 400g;Nabiał i jaja;192 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Bagietka;Pieczywo;187 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Marchew 1kg;Warzywa i owoce;178 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Pomidory 1kg;Warzywa i owoce;136 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Pieczywo razowe 400g;Pieczywo;104 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Twaróg 250g;Nabiał i jaja;96 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-04;136;Chleb pszenny 500g;Pieczywo;85 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Mleko UHT 3.2% 1L;Nabiał i jaja;485 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Bagietka;Pieczywo;411 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Banany 1kg;Warzywa i owoce;404 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Jabłka 1kg;Warzywa i owoce;372 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Kefir 400g;Nabiał i jaja;368 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Marchew 1kg;Warzywa i owoce;364 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Pomidory 1kg;Warzywa i owoce;250 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Twaróg 250g;Nabiał i jaja;243 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Pieczywo razowe 400g;Pieczywo;159 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;20;Chleb pszenny 500g;Pieczywo;145 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Mleko UHT 3.2% 1L;Nabiał i jaja;241 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Kefir 400g;Nabiał i jaja;218 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Bagietka;Pieczywo;211 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Banany 1kg;Warzywa i owoce;206 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Jabłka 1kg;Warzywa i owoce;197 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Marchew 1kg;Warzywa i owoce;175 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Pomidory 1kg;Warzywa i owoce;147 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Twaróg 250g;Nabiał i jaja;114 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Pieczywo razowe 400g;Pieczywo;91 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;24;Chleb pszenny 500g;Pieczywo;86 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Mleko UHT 3.2% 1L;Nabiał i jaja;221 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Kefir 400g;Nabiał i jaja;209 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Banany 1kg;Warzywa i owoce;192 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Bagietka;Pieczywo;185 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Jabłka 1kg;Warzywa i owoce;182 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Marchew 1kg;Warzywa i owoce;164 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Pomidory 1kg;Warzywa i owoce;136 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Twaróg 250g;Nabiał i jaja;106 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Pieczywo razowe 400g;Pieczywo;92 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;48;Chleb pszenny 500g;Pieczywo;84 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Mleko UHT 3.2% 1L;Nabiał i jaja;224 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Kefir 400g;Nabiał i jaja;200 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Jabłka 1kg;Warzywa i owoce;183 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Banany 1kg;Warzywa i owoce;183 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Bagietka;Pieczywo;181 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Marchew 1kg;Warzywa i owoce;158 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Pomidory 1kg;Warzywa i owoce;124 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Twaróg 250g;Nabiał i jaja;114 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Pieczywo razowe 400g;Pieczywo;84 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;50;Chleb pszenny 500g;Pieczywo;78 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Mleko UHT 3.2% 1L;Nabiał i jaja;118 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Banany 1kg;Warzywa i owoce;96 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Bagietka;Pieczywo;93 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Kefir 400g;Nabiał i jaja;92 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Jabłka 1kg;Warzywa i owoce;90 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Marchew 1kg;Warzywa i owoce;81 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Twaróg 250g;Nabiał i jaja;59 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Pomidory 1kg;Warzywa i owoce;58 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Pieczywo razowe 400g;Pieczywo;48 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;78;Chleb pszenny 500g;Pieczywo;44 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Mleko UHT 3.2% 1L;Nabiał i jaja;110 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Banany 1kg;Warzywa i owoce;85 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Kefir 400g;Nabiał i jaja;78 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Bagietka;Pieczywo;76 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Jabłka 1kg;Warzywa i owoce;73 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Marchew 1kg;Warzywa i owoce;68 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Twaróg 250g;Nabiał i jaja;54 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Pomidory 1kg;Warzywa i owoce;51 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Pieczywo razowe 400g;Pieczywo;42 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;92;Chleb pszenny 500g;Pieczywo;38 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Mleko UHT 3.2% 1L;Nabiał i jaja;215 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Kefir 400g;Nabiał i jaja;170 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Banany 1kg;Warzywa i owoce;167 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Jabłka 1kg;Warzywa i owoce;164 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Bagietka;Pieczywo;157 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Marchew 1kg;Warzywa i owoce;143 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Pomidory 1kg;Warzywa i owoce;112 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Twaróg 250g;Nabiał i jaja;93 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Pieczywo razowe 400g;Pieczywo;73 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;106;Chleb pszenny 500g;Pieczywo;65 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Mleko UHT 3.2% 1L;Nabiał i jaja;85 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Banany 1kg;Warzywa i owoce;73 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Kefir 400g;Nabiał i jaja;66 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Jabłka 1kg;Warzywa i owoce;65 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Bagietka;Pieczywo;65 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Marchew 1kg;Warzywa i owoce;60 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Pomidory 1kg;Warzywa i owoce;47 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Twaróg 250g;Nabiał i jaja;46 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Pieczywo razowe 400g;Pieczywo;38 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;115;Chleb pszenny 500g;Pieczywo;33 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Mleko UHT 3.2% 1L;Nabiał i jaja;292 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Kefir 400g;Nabiał i jaja;272 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Bagietka;Pieczywo;242 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Banany 1kg;Warzywa i owoce;229 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Jabłka 1kg;Warzywa i owoce;226 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Marchew 1kg;Warzywa i owoce;207 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Pomidory 1kg;Warzywa i owoce;178 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Twaróg 250g;Nabiał i jaja;129 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Pieczywo razowe 400g;Pieczywo;113 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;118;Chleb pszenny 500g;Pieczywo;101 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Mleko UHT 3.2% 1L;Nabiał i jaja;187 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Kefir 400g;Nabiał i jaja;156 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Bagietka;Pieczywo;147 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Jabłka 1kg;Warzywa i owoce;144 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Banany 1kg;Warzywa i owoce;143 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Marchew 1kg;Warzywa i owoce;125 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Pomidory 1kg;Warzywa i owoce;97 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Twaróg 250g;Nabiał i jaja;75 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Pieczywo razowe 400g;Pieczywo;54 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;124;Chleb pszenny 500g;Pieczywo;53 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Mleko UHT 3.2% 1L;Nabiał i jaja;181 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Kefir 400g;Nabiał i jaja;141 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Banany 1kg;Warzywa i owoce;137 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Jabłka 1kg;Warzywa i owoce;130 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Bagietka;Pieczywo;129 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Marchew 1kg;Warzywa i owoce;114 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Pomidory 1kg;Warzywa i owoce;92 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Twaróg 250g;Nabiał i jaja;74 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Chleb pszenny 500g;Pieczywo;48 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;132;Pieczywo razowe 400g;Pieczywo;47 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Mleko UHT 3.2% 1L;Nabiał i jaja;86 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Banany 1kg;Warzywa i owoce;73 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Kefir 400g;Nabiał i jaja;72 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Jabłka 1kg;Warzywa i owoce;65 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Bagietka;Pieczywo;64 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Marchew 1kg;Warzywa i owoce;59 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Pomidory 1kg;Warzywa i owoce;48 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Twaróg 250g;Nabiał i jaja;48 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Pieczywo razowe 400g;Pieczywo;36 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-05;136;Chleb pszenny 500g;Pieczywo;34 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Mleko UHT 3.2% 1L;Nabiał i jaja;874 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Kefir 400g;Nabiał i jaja;719 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Jabłka 1kg;Warzywa i owoce;650 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Marchew 1kg;Warzywa i owoce;616 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Bagietka;Pieczywo;597 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Banany 1kg;Warzywa i owoce;588 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Pomidory 1kg;Warzywa i owoce;461 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Twaróg 250g;Nabiał i jaja;349 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Pieczywo razowe 400g;Pieczywo;323 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;20;Chleb pszenny 500g;Pieczywo;246 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Mleko UHT 3.2% 1L;Nabiał i jaja;429 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Kefir 400g;Nabiał i jaja;360 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Jabłka 1kg;Warzywa i owoce;299 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Banany 1kg;Warzywa i owoce;298 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Marchew 1kg;Warzywa i owoce;290 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Bagietka;Pieczywo;289 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Pomidory 1kg;Warzywa i owoce;229 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Twaróg 250g;Nabiał i jaja;171 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Pieczywo razowe 400g;Pieczywo;150 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;24;Chleb pszenny 500g;Pieczywo;124 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Mleko UHT 3.2% 1L;Nabiał i jaja;401 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Kefir 400g;Nabiał i jaja;358 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Jabłka 1kg;Warzywa i owoce;299 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Banany 1kg;Warzywa i owoce;292 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Marchew 1kg;Warzywa i owoce;283 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Bagietka;Pieczywo;280 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Pomidory 1kg;Warzywa i owoce;219 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Twaróg 250g;Nabiał i jaja;163 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Pieczywo razowe 400g;Pieczywo;146 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;48;Chleb pszenny 500g;Pieczywo;121 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Mleko UHT 3.2% 1L;Nabiał i jaja;401 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Kefir 400g;Nabiał i jaja;342 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Jabłka 1kg;Warzywa i owoce;305 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Banany 1kg;Warzywa i owoce;302 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Marchew 1kg;Warzywa i owoce;286 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Bagietka;Pieczywo;282 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Pomidory 1kg;Warzywa i owoce;214 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Twaróg 250g;Nabiał i jaja;164 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Pieczywo razowe 400g;Pieczywo;152 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;50;Chleb pszenny 500g;Pieczywo;123 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Mleko UHT 3.2% 1L;Nabiał i jaja;208 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Kefir 400g;Nabiał i jaja;179 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Jabłka 1kg;Warzywa i owoce;157 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Banany 1kg;Warzywa i owoce;149 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Marchew 1kg;Warzywa i owoce;147 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Bagietka;Pieczywo;140 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Pomidory 1kg;Warzywa i owoce;109 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Twaróg 250g;Nabiał i jaja;91 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Pieczywo razowe 400g;Pieczywo;75 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;78;Chleb pszenny 500g;Pieczywo;64 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Mleko UHT 3.2% 1L;Nabiał i jaja;190 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Kefir 400g;Nabiał i jaja;160 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Banany 1kg;Warzywa i owoce;140 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Jabłka 1kg;Warzywa i owoce;136 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Marchew 1kg;Warzywa i owoce;129 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Bagietka;Pieczywo;121 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Pomidory 1kg;Warzywa i owoce;98 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Twaróg 250g;Nabiał i jaja;80 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Pieczywo razowe 400g;Pieczywo;69 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;92;Chleb pszenny 500g;Pieczywo;55 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Mleko UHT 3.2% 1L;Nabiał i jaja;362 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Kefir 400g;Nabiał i jaja;296 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Jabłka 1kg;Warzywa i owoce;267 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Banany 1kg;Warzywa i owoce;254 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Bagietka;Pieczywo;251 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Marchew 1kg;Warzywa i owoce;249 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Pomidory 1kg;Warzywa i owoce;203 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Twaróg 250g;Nabiał i jaja;147 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Pieczywo razowe 400g;Pieczywo;136 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;106;Chleb pszenny 500g;Pieczywo;108 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Mleko UHT 3.2% 1L;Nabiał i jaja;145 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Kefir 400g;Nabiał i jaja;123 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Jabłka 1kg;Warzywa i owoce;108 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Banany 1kg;Warzywa i owoce;105 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Marchew 1kg;Warzywa i owoce;103 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Bagietka;Pieczywo;98 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Pomidory 1kg;Warzywa i owoce;73 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Twaróg 250g;Nabiał i jaja;62 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Pieczywo razowe 400g;Pieczywo;52 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;115;Chleb pszenny 500g;Pieczywo;44 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Mleko UHT 3.2% 1L;Nabiał i jaja;522 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Kefir 400g;Nabiał i jaja;452 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Jabłka 1kg;Warzywa i owoce;374 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Bagietka;Pieczywo;369 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Banany 1kg;Warzywa i owoce;360 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Marchew 1kg;Warzywa i owoce;354 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Pomidory 1kg;Warzywa i owoce;275 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Twaróg 250g;Nabiał i jaja;200 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Pieczywo razowe 400g;Pieczywo;190 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;118;Chleb pszenny 500g;Pieczywo;153 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Mleko UHT 3.2% 1L;Nabiał i jaja;305 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Kefir 400g;Nabiał i jaja;256 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Jabłka 1kg;Warzywa i owoce;222 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Banany 1kg;Warzywa i owoce;217 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Marchew 1kg;Warzywa i owoce;213 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Bagietka;Pieczywo;204 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Pomidory 1kg;Warzywa i owoce;164 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Twaróg 250g;Nabiał i jaja;117 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Pieczywo razowe 400g;Pieczywo;107 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;124;Chleb pszenny 500g;Pieczywo;91 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Mleko UHT 3.2% 1L;Nabiał i jaja;269 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Kefir 400g;Nabiał i jaja;234 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Jabłka 1kg;Warzywa i owoce;211 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Banany 1kg;Warzywa i owoce;194 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Marchew 1kg;Warzywa i owoce;193 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Bagietka;Pieczywo;192 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Pomidory 1kg;Warzywa i owoce;150 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Twaróg 250g;Nabiał i jaja;110 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Pieczywo razowe 400g;Pieczywo;99 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;132;Chleb pszenny 500g;Pieczywo;78 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Mleko UHT 3.2% 1L;Nabiał i jaja;158 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Kefir 400g;Nabiał i jaja;132 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Jabłka 1kg;Warzywa i owoce;117 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Banany 1kg;Warzywa i owoce;116 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Marchew 1kg;Warzywa i owoce;105 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Bagietka;Pieczywo;101 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Pomidory 1kg;Warzywa i owoce;79 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Twaróg 250g;Nabiał i jaja;66 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Pieczywo razowe 400g;Pieczywo;57 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-06;136;Chleb pszenny 500g;Pieczywo;46 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Mleko UHT 3.2% 1L;Nabiał i jaja;875 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Kefir 400g;Nabiał i jaja;719 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Jabłka 1kg;Warzywa i owoce;654 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Marchew 1kg;Warzywa i owoce;619 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Bagietka;Pieczywo;601 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Banany 1kg;Warzywa i owoce;592 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Pomidory 1kg;Warzywa i owoce;460 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Twaróg 250g;Nabiał i jaja;349 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Pieczywo razowe 400g;Pieczywo;324 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;20;Chleb pszenny 500g;Pieczywo;248 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Mleko UHT 3.2% 1L;Nabiał i jaja;428 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Kefir 400g;Nabiał i jaja;361 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Jabłka 1kg;Warzywa i owoce;301 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Banany 1kg;Warzywa i owoce;298 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Marchew 1kg;Warzywa i owoce;292 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Bagietka;Pieczywo;291 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Pomidory 1kg;Warzywa i owoce;229 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Twaróg 250g;Nabiał i jaja;170 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Pieczywo razowe 400g;Pieczywo;151 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;24;Chleb pszenny 500g;Pieczywo;126 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Mleko UHT 3.2% 1L;Nabiał i jaja;403 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Kefir 400g;Nabiał i jaja;358 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Jabłka 1kg;Warzywa i owoce;301 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Banany 1kg;Warzywa i owoce;295 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Marchew 1kg;Warzywa i owoce;285 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Bagietka;Pieczywo;281 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Pomidory 1kg;Warzywa i owoce;221 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Twaróg 250g;Nabiał i jaja;164 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Pieczywo razowe 400g;Pieczywo;147 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;48;Chleb pszenny 500g;Pieczywo;123 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Mleko UHT 3.2% 1L;Nabiał i jaja;399 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Kefir 400g;Nabiał i jaja;343 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Jabłka 1kg;Warzywa i owoce;310 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Banany 1kg;Warzywa i owoce;304 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Marchew 1kg;Warzywa i owoce;292 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Bagietka;Pieczywo;284 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Pomidory 1kg;Warzywa i owoce;215 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Twaróg 250g;Nabiał i jaja;165 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Pieczywo razowe 400g;Pieczywo;154 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;50;Chleb pszenny 500g;Pieczywo;125 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Mleko UHT 3.2% 1L;Nabiał i jaja;209 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Kefir 400g;Nabiał i jaja;180 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Jabłka 1kg;Warzywa i owoce;158 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Banany 1kg;Warzywa i owoce;151 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Marchew 1kg;Warzywa i owoce;149 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Bagietka;Pieczywo;141 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Pomidory 1kg;Warzywa i owoce;109 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Twaróg 250g;Nabiał i jaja;91 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Pieczywo razowe 400g;Pieczywo;76 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;78;Chleb pszenny 500g;Pieczywo;65 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Mleko UHT 3.2% 1L;Nabiał i jaja;192 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Kefir 400g;Nabiał i jaja;162 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Banany 1kg;Warzywa i owoce;143 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Jabłka 1kg;Warzywa i owoce;138 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Marchew 1kg;Warzywa i owoce;132 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Bagietka;Pieczywo;123 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Pomidory 1kg;Warzywa i owoce;99 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Twaróg 250g;Nabiał i jaja;81 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Pieczywo razowe 400g;Pieczywo;70 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;92;Chleb pszenny 500g;Pieczywo;57 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Mleko UHT 3.2% 1L;Nabiał i jaja;363 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Kefir 400g;Nabiał i jaja;299 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Jabłka 1kg;Warzywa i owoce;272 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Banany 1kg;Warzywa i owoce;255 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Marchew 1kg;Warzywa i owoce;254 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Bagietka;Pieczywo;253 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Pomidory 1kg;Warzywa i owoce;203 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Twaróg 250g;Nabiał i jaja;147 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Pieczywo razowe 400g;Pieczywo;137 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;106;Chleb pszenny 500g;Pieczywo;111 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Mleko UHT 3.2% 1L;Nabiał i jaja;146 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Kefir 400g;Nabiał i jaja;124 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Jabłka 1kg;Warzywa i owoce;110 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Marchew 1kg;Warzywa i owoce;105 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Banany 1kg;Warzywa i owoce;104 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Bagietka;Pieczywo;100 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Pomidory 1kg;Warzywa i owoce;74 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Twaróg 250g;Nabiał i jaja;62 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Pieczywo razowe 400g;Pieczywo;53 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;115;Chleb pszenny 500g;Pieczywo;45 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Mleko UHT 3.2% 1L;Nabiał i jaja;525 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Kefir 400g;Nabiał i jaja;456 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Jabłka 1kg;Warzywa i owoce;381 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Bagietka;Pieczywo;371 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Marchew 1kg;Warzywa i owoce;359 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Banany 1kg;Warzywa i owoce;357 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Pomidory 1kg;Warzywa i owoce;277 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Twaróg 250g;Nabiał i jaja;202 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Pieczywo razowe 400g;Pieczywo;193 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;118;Chleb pszenny 500g;Pieczywo;155 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Mleko UHT 3.2% 1L;Nabiał i jaja;303 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Kefir 400g;Nabiał i jaja;257 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Jabłka 1kg;Warzywa i owoce;225 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Banany 1kg;Warzywa i owoce;218 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Marchew 1kg;Warzywa i owoce;215 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Bagietka;Pieczywo;205 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Pomidory 1kg;Warzywa i owoce;163 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Twaróg 250g;Nabiał i jaja;118 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Pieczywo razowe 400g;Pieczywo;108 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;124;Chleb pszenny 500g;Pieczywo;92 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Mleko UHT 3.2% 1L;Nabiał i jaja;272 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Kefir 400g;Nabiał i jaja;237 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Jabłka 1kg;Warzywa i owoce;216 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Marchew 1kg;Warzywa i owoce;198 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Banany 1kg;Warzywa i owoce;197 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Bagietka;Pieczywo;195 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Pomidory 1kg;Warzywa i owoce;152 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Twaróg 250g;Nabiał i jaja;111 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Pieczywo razowe 400g;Pieczywo;101 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;132;Chleb pszenny 500g;Pieczywo;80 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Mleko UHT 3.2% 1L;Nabiał i jaja;159 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Kefir 400g;Nabiał i jaja;134 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Jabłka 1kg;Warzywa i owoce;120 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Banany 1kg;Warzywa i owoce;118 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Marchew 1kg;Warzywa i owoce;108 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Bagietka;Pieczywo;102 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Pomidory 1kg;Warzywa i owoce;80 kg/szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Twaróg 250g;Nabiał i jaja;67 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Pieczywo razowe 400g;Pieczywo;58 szt.;Średni błąd modelu (MAPE) to 117.8%
+2026-04-07;136;Chleb pszenny 500g;Pieczywo;48 szt.;Średni błąd modelu (MAPE) to 117.8%
