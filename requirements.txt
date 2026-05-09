@@ -15,6 +15,7 @@ httptools==0.7.1
 idna==3.13
 itsdangerous==2.2.0
 Jinja2==3.1.6
+joblib==1.5.3
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 MarkupSafe==3.0.3
@@ -33,14 +34,18 @@ python-multipart==0.0.27
 referencing==0.37.0
 requests==2.33.1
 rpds-py==0.30.0
+scikit-learn==1.8.0
+scipy==1.17.1
 six==1.17.0
 smmap==5.0.3
 starlette==1.0.0
 streamlit==1.57.0
 tenacity==9.1.4
+threadpoolctl==3.6.0
 toml==0.10.2
 typing_extensions==4.15.0
 urllib3==2.7.0
 uvicorn==0.46.0
 websockets==16.0
 Werkzeug==3.1.8
+xgboost==3.2.0
