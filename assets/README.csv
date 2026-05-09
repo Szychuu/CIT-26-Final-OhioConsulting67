@@ -1,0 +1,29 @@
+﻿Consult IT! 2026 — PLON Market — Dane do analizy
+""
+Ten plik zawiera 14 zakładek z fikcyjnymi (ale spójnymi) danymi PLON Market.
+Wszystkie wartości są zmyślone na potrzeby konkursu — nie reprezentują żadnej istniejącej firmy.
+""
+Zawartość:
+Dane Finansowe — miesięczne P&L (Jan 2024 – Mar 2026)
+Sklepy — kartoteka 140 sklepów stacjonarnych
+Sprzedaż dzienna — sample 12 reprezentatywnych sklepów × 821 dni × 15 kategorii
+Transakcje — sample 80 000 transakcji ze wszystkich kanałów
+Kategorie miesięcznie — agregacja per kategoria produktowa
+Pogoda — codzienne dane dla 6 głównych miast (do mapowania na sklepy)
+Eventy lokalne — kalendarz świąt, meczów, festiwali, ferii, dni przedświątecznych
+Promocje — historia ~64 promocji z planowanym vs rzeczywistym efektem
+OOS log — sample 4500 zdarzeń braku towaru
+Food waste log — sample 4200 zdarzeń strat fresh
+Konkurencja - ceny — tygodniowy index cen 30 SKU u głównych konkurentów
+KPI miesięczne — agregaty operacyjne (NPS, OOS%, Waste%, churn, ROI promo, …)
+Lojalność i NPS — sample 1000 klientów programu Plonka z komentarzami NPS
+Roadmapa Tech — projekty IT/Data PLON Market
+""
+Wskazówki:
+• Sprzedaż dzienna jest sample'em — pełna baza ma ~140 sklepów × 821 dni × 15 kategorii.
+• Pogoda i eventy są w osobnych zakładkach — wymagają dołączenia (join) po dacie/mieście.
+• Niektóre dni mają anomalie (zaznaczone w komentarzach P&L pośrednio przez waste / OOS spike).
+"• Niedziele niehandlowe — zerowa sprzedaż; lista dni handlowych to wiedza ogólnodostępna."
+• Marża operacyjna firmy spada — zadanie polega m.in. na zatrzymaniu tego trendu.
+""
+Powodzenia! 🌱

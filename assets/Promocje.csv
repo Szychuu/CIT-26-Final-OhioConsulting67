@@ -1,0 +1,65 @@
+﻿ID promocji;Nazwa;Kategoria;Zasięg;Typ promocji;Data od;Data do;Planowany wolumen (szt);Rzeczywisty wolumen (szt);Planowana marża %;Rzeczywista marża %;ROI promocji;Komentarz
+P0001;2+1 Karma i akcesoria ;Karma i akcesoria zwierzęce;all;2+1;2024-08-14;2024-08-24;24740;19142;18;16.46;0.7;Brak
+P0002;2+1 Napoje bezalkoholo;Napoje bezalkoholowe;region;2+1;2024-10-05;2024-10-19;26006;15470;14;11.68;0.58;Niepełne zatowarowanie w peak
+P0003;2+1 Warzywa i owoce;Warzywa i owoce;top-50;2+1;2024-04-03;2024-04-17;32268;21328;5;6.5;1.37;Kanibalizacja produktów regularnych podejrzewana
+P0004;-X% cena Karma i akcesoria ;Karma i akcesoria zwierzęce;top-50;-X% cena;2024-10-10;2024-10-24;32744;26429;15;12.56;0.62;Słaba widoczność w sklepie
+P0005;-X% cena Słodycze i przekąs;Słodycze i przekąski;region;-X% cena;2024-07-09;2024-07-16;13601;13000;15;8.0;0.35;Dobra kampania w gazetce
+P0006;multipack Nabiał i jaja;Nabiał i jaja;region;multipack;2024-08-20;2024-09-03;27126;29278;10;14.0;1.47;Brak
+P0007;2+1 Słodycze i przekąs;Słodycze i przekąski;all;2+1;2024-09-01;2024-09-11;17104;14821;20;13.0;0.37;Niepełne zatowarowanie w peak
+P0008;2+1 Chemia i higiena;Chemia i higiena;all;2+1;2024-03-03;2024-03-17;30935;20804;8;7.88;0.68;Brak
+P0009;multipack Mięso i wędliny;Mięso i wędliny;all;multipack;2024-09-14;2024-09-24;32300;18357;11;12.5;0.94;Dobra kampania w gazetce
+P0010;-X% cena Ryby i mrożonki;Ryby i mrożonki;region;-X% cena;2024-02-15;2024-02-22;34975;31014;6;1.77;0.31;Brak
+P0011;cashback Plonka Napoje bezalkoholo;Napoje bezalkoholowe;region;cashback Plonka;2024-04-18;2024-05-02;26771;26029;10;7.23;0.72;Kanibalizacja produktów regularnych podejrzewana
+P0012;multipack Dziecko;Dziecko;all;multipack;2024-04-10;2024-04-17;27125;14869;5;6.5;1.47;Niepełne zatowarowanie w peak
+P0013;-X% cena Napoje bezalkoholo;Napoje bezalkoholowe;top-50;-X% cena;2024-02-10;2024-02-17;28557;23379;10;11.5;1.34;Niepełne zatowarowanie w peak
+P0014;multipack Nabiał i jaja;Nabiał i jaja;all;multipack;2024-08-10;2024-08-17;29338;24398;9;4.01;0.4;Dobra kampania w gazetce
+P0015;-X% cena Chemia i higiena;Chemia i higiena;region;-X% cena;2024-02-11;2024-02-18;20568;17032;10;3.0;0.54;Słaba widoczność w sklepie
+P0016;-X% cena Ryby i mrożonki;Ryby i mrożonki;all;-X% cena;2024-06-17;2024-06-24;43885;30844;15;18.25;0.99;Dobra kampania w gazetce
+P0017;mega-cena Dziecko;Dziecko;all;mega-cena;2024-11-07;2024-11-14;17966;13838;9;10.5;1.35;Kanibalizacja produktów regularnych podejrzewana
+P0018;-X% cena Warzywa i owoce;Warzywa i owoce;region;-X% cena;2024-04-04;2024-04-18;37179;33836;4;-3.0;0.31;Dobra kampania w gazetce
+P0019;-X% cena Non-food / dom;Non-food / dom;top-50;-X% cena;2024-07-02;2024-07-09;35565;34706;5;-2.0;0.43;Brak
+P0020;-X% cena Lody i desery;Lody i desery;region;-X% cena;2024-03-10;2024-03-20;9788;8247;13;6.0;0.63;Brak
+P0021;-X% cena Karma i akcesoria ;Karma i akcesoria zwierzęce;top-50;-X% cena;2024-04-20;2024-04-27;19518;9164;13;6.0;0.42;Konkurent wprowadził lepszą ofertę
+P0022;cashback Plonka Nabiał i jaja;Nabiał i jaja;all;cashback Plonka;2024-03-10;2024-03-17;13368;12325;9;3.54;0.28;Dobra kampania w gazetce
+P0023;-X% cena Piwo i alkohol;Piwo i alkohol;all;-X% cena;2024-06-01;2024-06-15;21208;17201;15;13.48;0.94;Słaba widoczność w sklepie
+P0024;cashback Plonka Warzywa i owoce;Warzywa i owoce;region;cashback Plonka;2024-11-21;2024-11-28;15941;12200;14;7.14;0.35;Brak
+P0025;-X% cena Słodycze i przekąs;Słodycze i przekąski;all;-X% cena;2024-01-02;2024-01-12;8528;8329;17;16.33;0.74;Dobra kampania w gazetce
+P0026;-X% cena Sucha żywność / ka;Sucha żywność / kasze;all;-X% cena;2024-08-02;2024-08-16;19026;20930;11;9.29;0.93;Brak
+P0027;cashback Plonka Nabiał i jaja;Nabiał i jaja;region;cashback Plonka;2024-12-14;2024-12-21;42927;34228;9;5.72;0.42;Słaba widoczność w sklepie
+P0028;-X% cena Lody i desery;Lody i desery;region;-X% cena;2024-05-04;2024-05-14;37968;36237;18;16.06;0.78;Konkurent wprowadził lepszą ofertę
+P0029;-X% cena Mrożonki;Mrożonki;all;-X% cena;2025-06-21;2025-06-28;11252;12837;16;17.5;1.49;Kanibalizacja produktów regularnych podejrzewana
+P0030;-X% cena Non-food / dom;Non-food / dom;all;-X% cena;2025-12-18;2025-12-28;19647;17048;2;3.5;0.9;Brak
+P0031;cashback Plonka Napoje bezalkoholo;Napoje bezalkoholowe;all;cashback Plonka;2025-03-05;2025-03-12;10861;7252;20;18.48;0.53;Słaba widoczność w sklepie
+P0032;2+1 Mięso i wędliny;Mięso i wędliny;region;2+1;2025-12-01;2025-12-08;40908;46110;10;8.22;0.83;Dobra kampania w gazetce
+P0033;-X% cena Piwo i alkohol;Piwo i alkohol;all;-X% cena;2025-05-09;2025-05-19;16210;14961;16;11.74;0.47;Brak
+P0034;-X% cena Ryby i mrożonki;Ryby i mrożonki;region;-X% cena;2025-11-16;2025-11-26;10406;9477;9;5.62;0.37;Brak
+P0035;-X% cena Słodycze i przekąs;Słodycze i przekąski;region;-X% cena;2025-04-04;2025-04-14;15862;15355;16;13.29;0.68;Brak
+P0036;mega-cena Karma i akcesoria ;Karma i akcesoria zwierzęce;top-50;mega-cena;2025-01-17;2025-01-31;27699;18277;13;7.23;0.33;Konkurent wprowadził lepszą ofertę
+P0037;cashback Plonka Dziecko;Dziecko;all;cashback Plonka;2025-04-19;2025-04-26;28462;15013;12;8.67;0.4;Niepełne zatowarowanie w peak
+P0038;mega-cena Nabiał i jaja;Nabiał i jaja;all;mega-cena;2025-05-04;2025-05-11;42872;39248;6;-0.38;0.0;Niepełne zatowarowanie w peak
+P0039;mega-cena Warzywa i owoce;Warzywa i owoce;region;mega-cena;2025-01-10;2025-01-24;14917;15516;4;5.5;1.81;Konkurent wprowadził lepszą ofertę
+P0040;mega-cena Słodycze i przekąs;Słodycze i przekąski;region;mega-cena;2025-11-07;2025-11-21;27586;16815;18;14.01;0.43;Słaba widoczność w sklepie
+P0041;-X% cena Napoje bezalkoholo;Napoje bezalkoholowe;top-50;-X% cena;2025-06-21;2025-07-01;28287;32523;14;15.5;1.47;Słaba widoczność w sklepie
+P0042;multipack Lody i desery;Lody i desery;all;multipack;2025-03-16;2025-03-26;20205;18881;16;9.24;0.47;Kanibalizacja produktów regularnych podejrzewana
+P0043;mega-cena Warzywa i owoce;Warzywa i owoce;all;mega-cena;2025-01-14;2025-01-21;30686;26270;13;6.0;0.52;Kanibalizacja produktów regularnych podejrzewana
+P0044;-X% cena Mrożonki;Mrożonki;top-50;-X% cena;2025-08-21;2025-08-28;22191;19242;17;18.5;1.56;Dobra kampania w gazetce
+P0045;multipack Pieczywo;Pieczywo;region;multipack;2025-12-05;2025-12-15;44486;25745;8;7.04;0.6;Słaba widoczność w sklepie
+P0046;2+1 Chemia i higiena;Chemia i higiena;region;2+1;2025-06-20;2025-06-30;12692;10436;10;3.41;0.24;Słaba widoczność w sklepie
+P0047;multipack Sucha żywność / ka;Sucha żywność / kasze;all;multipack;2025-10-18;2025-10-25;38350;35083;11;4.85;0.48;Brak
+P0048;-X% cena Napoje bezalkoholo;Napoje bezalkoholowe;region;-X% cena;2025-04-07;2025-04-14;20062;17348;14;15.5;1.65;Kanibalizacja produktów regularnych podejrzewana
+P0049;mega-cena Słodycze i przekąs;Słodycze i przekąski;all;mega-cena;2025-01-10;2025-01-20;13592;9493;16;13.57;0.65;Niepełne zatowarowanie w peak
+P0050;-X% cena Mięso i wędliny;Mięso i wędliny;top-50;-X% cena;2025-09-22;2025-09-29;42533;37631;7;5.78;0.48;Słaba widoczność w sklepie
+P0051;multipack Nabiał i jaja;Nabiał i jaja;region;multipack;2025-11-13;2025-11-23;20505;17618;2;-3.06;0.0;Brak
+P0052;-X% cena Słodycze i przekąs;Słodycze i przekąski;all;-X% cena;2025-06-22;2025-06-29;21233;20488;14;7.0;0.51;Konkurent wprowadził lepszą ofertę
+P0053;2+1 Piwo i alkohol;Piwo i alkohol;all;2+1;2025-12-05;2025-12-12;29440;24675;16;12.32;0.51;Kanibalizacja produktów regularnych podejrzewana
+P0054;-X% cena Non-food / dom;Non-food / dom;region;-X% cena;2025-01-02;2025-01-09;34666;24512;3;-0.62;0.0;Konkurent wprowadził lepszą ofertę
+P0055;-X% cena Piwo i alkohol;Piwo i alkohol;all;-X% cena;2025-06-18;2025-06-25;41192;31955;10;8.87;0.44;Konkurent wprowadził lepszą ofertę
+P0056;-X% cena Non-food / dom;Non-food / dom;all;-X% cena;2025-08-11;2025-08-18;11730;7706;1;1.57;0.93;Niepełne zatowarowanie w peak
+P0057;-X% cena Karma i akcesoria ;Karma i akcesoria zwierzęce;all;-X% cena;2026-01-22;2026-02-01;40944;39624;12;8.0;0.64;Brak
+P0058;-X% cena Mrożonki;Mrożonki;region;-X% cena;2026-01-15;2026-01-25;25735;24714;16;18.59;0.99;Niepełne zatowarowanie w peak
+P0059;-X% cena Karma i akcesoria ;Karma i akcesoria zwierzęce;all;-X% cena;2026-01-09;2026-01-19;11299;9098;10;12.66;1.16;Dobra kampania w gazetce
+P0060;mega-cena Sucha żywność / ka;Sucha żywność / kasze;all;mega-cena;2026-02-20;2026-03-02;28216;25710;7;2.6;0.35;Słaba widoczność w sklepie
+P0061;mega-cena Ryby i mrożonki;Ryby i mrożonki;top-50;mega-cena;2026-01-14;2026-01-28;22073;15285;6;-1.0;0.35;Niepełne zatowarowanie w peak
+P0062;mega-cena Karma i akcesoria ;Karma i akcesoria zwierzęce;all;mega-cena;2026-02-09;2026-02-16;14363;12925;17;16.61;0.75;Słaba widoczność w sklepie
+P0063;multipack Karma i akcesoria ;Karma i akcesoria zwierzęce;all;multipack;2026-02-21;2026-03-07;25303;20615;9;5.39;0.4;Kanibalizacja produktów regularnych podejrzewana
+P0064;2+1 Dziecko;Dziecko;region;2+1;2026-01-13;2026-01-20;30005;30963;11;12.45;1.2;Kanibalizacja produktów regularnych podejrzewana
