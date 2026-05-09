@@ -1,0 +1,121 @@
+﻿Data;ID Sklepu;Nazwa produktu;Kategoria;Zalecana ilość do zamówienia;Pewność predykcji
+2026-04-01;PLN-020;Mleko UHT 3.2% 1L;Nabiał i jaja;848 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Kefir 400g;Nabiał i jaja;690 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Jabłka 1kg;Warzywa i owoce;658 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Marchew 1kg;Warzywa i owoce;606 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Banany 1kg;Warzywa i owoce;595 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Bagietka;Pieczywo;578 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Pomidory 1kg;Warzywa i owoce;456 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Twaróg 250g;Nabiał i jaja;362 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Pieczywo razowe 400g;Pieczywo;343 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-020;Chleb pszenny 500g;Pieczywo;255 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Mleko UHT 3.2% 1L;Nabiał i jaja;442 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Kefir 400g;Nabiał i jaja;358 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Bagietka;Pieczywo;305 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Banany 1kg;Warzywa i owoce;301 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Jabłka 1kg;Warzywa i owoce;300 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Marchew 1kg;Warzywa i owoce;287 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Pomidory 1kg;Warzywa i owoce;236 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Twaróg 250g;Nabiał i jaja;180 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Pieczywo razowe 400g;Pieczywo;158 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-024;Chleb pszenny 500g;Pieczywo;129 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Mleko UHT 3.2% 1L;Nabiał i jaja;404 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Kefir 400g;Nabiał i jaja;356 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Banany 1kg;Warzywa i owoce;307 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Jabłka 1kg;Warzywa i owoce;305 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Bagietka;Pieczywo;300 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Marchew 1kg;Warzywa i owoce;293 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Pomidory 1kg;Warzywa i owoce;226 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Twaróg 250g;Nabiał i jaja;172 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Pieczywo razowe 400g;Pieczywo;156 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-048;Chleb pszenny 500g;Pieczywo;127 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Mleko UHT 3.2% 1L;Nabiał i jaja;397 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Kefir 400g;Nabiał i jaja;344 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Banany 1kg;Warzywa i owoce;312 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Jabłka 1kg;Warzywa i owoce;307 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Bagietka;Pieczywo;303 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Marchew 1kg;Warzywa i owoce;297 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Pomidory 1kg;Warzywa i owoce;220 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Twaróg 250g;Nabiał i jaja;173 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Pieczywo razowe 400g;Pieczywo;160 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-050;Chleb pszenny 500g;Pieczywo;131 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Mleko UHT 3.2% 1L;Nabiał i jaja;206 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Kefir 400g;Nabiał i jaja;185 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Jabłka 1kg;Warzywa i owoce;157 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Banany 1kg;Warzywa i owoce;152 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Bagietka;Pieczywo;148 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Marchew 1kg;Warzywa i owoce;142 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Pomidory 1kg;Warzywa i owoce;121 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Twaróg 250g;Nabiał i jaja;95 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Pieczywo razowe 400g;Pieczywo;79 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-078;Chleb pszenny 500g;Pieczywo;69 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Mleko UHT 3.2% 1L;Nabiał i jaja;195 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Kefir 400g;Nabiał i jaja;169 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Banany 1kg;Warzywa i owoce;141 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Jabłka 1kg;Warzywa i owoce;133 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Bagietka;Pieczywo;129 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Marchew 1kg;Warzywa i owoce;127 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Pomidory 1kg;Warzywa i owoce;111 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Twaróg 250g;Nabiał i jaja;82 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Pieczywo razowe 400g;Pieczywo;70 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-092;Chleb pszenny 500g;Pieczywo;61 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Mleko UHT 3.2% 1L;Nabiał i jaja;368 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Kefir 400g;Nabiał i jaja;297 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Jabłka 1kg;Warzywa i owoce;275 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Bagietka;Pieczywo;262 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Banany 1kg;Warzywa i owoce;259 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Marchew 1kg;Warzywa i owoce;252 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Pomidory 1kg;Warzywa i owoce;200 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Twaróg 250g;Nabiał i jaja;153 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Pieczywo razowe 400g;Pieczywo;138 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-106;Chleb pszenny 500g;Pieczywo;110 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Mleko UHT 3.2% 1L;Nabiał i jaja;151 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Kefir 400g;Nabiał i jaja;133 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Jabłka 1kg;Warzywa i owoce;105 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Marchew 1kg;Warzywa i owoce;105 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Banany 1kg;Warzywa i owoce;104 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Bagietka;Pieczywo;99 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Pomidory 1kg;Warzywa i owoce;78 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Twaróg 250g;Nabiał i jaja;66 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Pieczywo razowe 400g;Pieczywo;55 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-115;Chleb pszenny 500g;Pieczywo;49 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Mleko UHT 3.2% 1L;Nabiał i jaja;512 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Kefir 400g;Nabiał i jaja;438 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Bagietka;Pieczywo;385 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Jabłka 1kg;Warzywa i owoce;380 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Banany 1kg;Warzywa i owoce;360 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Marchew 1kg;Warzywa i owoce;359 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Pomidory 1kg;Warzywa i owoce;298 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Twaróg 250g;Nabiał i jaja;215 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Pieczywo razowe 400g;Pieczywo;205 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-118;Chleb pszenny 500g;Pieczywo;158 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Mleko UHT 3.2% 1L;Nabiał i jaja;306 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Kefir 400g;Nabiał i jaja;255 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Jabłka 1kg;Warzywa i owoce;221 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Banany 1kg;Warzywa i owoce;217 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Marchew 1kg;Warzywa i owoce;212 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Bagietka;Pieczywo;212 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Pomidory 1kg;Warzywa i owoce;164 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Twaróg 250g;Nabiał i jaja;124 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Pieczywo razowe 400g;Pieczywo;110 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-124;Chleb pszenny 500g;Pieczywo;98 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Mleko UHT 3.2% 1L;Nabiał i jaja;279 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Kefir 400g;Nabiał i jaja;247 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Jabłka 1kg;Warzywa i owoce;228 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Banany 1kg;Warzywa i owoce;210 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Marchew 1kg;Warzywa i owoce;205 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Bagietka;Pieczywo;205 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Pomidory 1kg;Warzywa i owoce;151 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Twaróg 250g;Nabiał i jaja;118 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Pieczywo razowe 400g;Pieczywo;103 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-132;Chleb pszenny 500g;Pieczywo;85 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Mleko UHT 3.2% 1L;Nabiał i jaja;170 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Kefir 400g;Nabiał i jaja;142 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Jabłka 1kg;Warzywa i owoce;125 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Banany 1kg;Warzywa i owoce;122 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Marchew 1kg;Warzywa i owoce;108 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Bagietka;Pieczywo;106 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Pomidory 1kg;Warzywa i owoce;82 kg/szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Twaróg 250g;Nabiał i jaja;71 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Pieczywo razowe 400g;Pieczywo;61 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
+2026-04-01;PLN-136;Chleb pszenny 500g;Pieczywo;51 szt.;Średni błąd modelu z ostatnich 7 dni wynosi 121.3%
